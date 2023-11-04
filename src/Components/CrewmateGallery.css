@@ -1,0 +1,14 @@
+.crewmate {
+  color: #fff;
+  font-weight: 100;
+  background-color: grey;
+  height: fit-content;
+}
+
+.crewmateContainer {
+  margin-top: 5rem;
+  height: 95vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
